@@ -1,0 +1,46 @@
+{
+    "events": [
+    {
+    "id": 1,
+    "title": "Wielkie Polowanie na Orków",
+    "description": "Zbiórka u Lee przed Starym Obozem. Wymagane uzbrojenie.",
+    "date": "2025-09-15",
+    "time": "09:00"
+    },
+    {
+    "id": 2,
+    "title": "Rytuał Przywołania Beliara",
+    "description": "Tylko dla wtajemniczonych członków Bractwa. Stara świątynia na bagnach.",
+    "date": "2025-10-05",
+    "time": "23:00"
+    },
+    {
+    "id": 3,
+    "title": "Dostawa rudy z Nowego Obozu",
+    "description": "Konwój wyrusza spod tamy. Zwiększona ochrona.",
+    "date": "2025-10-10",
+    "time": "12:00"
+    },
+    {
+    "id": 4,
+    "title": "Uczta u Gomeza",
+    "description": "Coroczna uczta dla strażników i magnatów. Obecność obowiązkowa.",
+    "date": "2025-10-28",
+    "time": "20:00"
+    },
+    {
+    "id": 5,
+    "title": "Spotkanie z Magami Wody",
+    "description": "Narada w sprawie planów ucieczki. Biblioteka w Nowym Obozie.",
+    "date": "2025-11-03",
+    "time": "18:00"
+    },
+    {
+    "id": 6,
+    "title": "Targowisko w Khorinis",
+    "description": "Rzadkie towary od kupców zza morza. Główny plac.",
+    "date": "2025-10-10",
+    "time": "10:00"
+    }
+    ]
+    }
