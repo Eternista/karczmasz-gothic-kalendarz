@@ -5,11 +5,13 @@
   "type": "module",
   "scripts": {
     "dev": "netlify dev",
-    "build": "tsc -b && vite build",
+    "build": "tsc && vite build",
     "lint": "eslint .",
     "preview": "vite preview"
   },
   "dependencies": {
+    "@netlify/blobs": "^7.5.1",
+    "@netlify/functions": "^2.7.0",
     "lucide-react": "^0.544.0",
     "react": "^19.1.1",
     "react-dom": "^19.1.1"
